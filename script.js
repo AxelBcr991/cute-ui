@@ -14,16 +14,14 @@ const noMessages = [
     "Tu es s\ûre ? 🤔",
     "stp... 🥺",
     "Si tu dis non je vais \être tristounet...",
-    "Enfin vraiment triste... 😢",
-    "Please ??? 💔",
     "Me fais pas \ça ...",
     "Derni\ère chance! 😭",
     "De toute fa\çon tu n'm'attraperas pas 😜"
 ]
 
 const yesTeasePokes = [
-    "Essaie de d'abord de dire non... Tu verras que j'ai pensé à tout 😏",
-    // "Tape Non, juste une fois 👀",
+    "Essaie de d'abord de dire non... Tu verras, j'ai pensé à tout 😏",
+    "Clique Non, juste une fois 👀",
     // "Tu rates 😈",
     // "click no, I dare you 😏"
 ]
